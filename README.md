@@ -1,0 +1,2 @@
+# ManicEmuCore
+Fork from DeltaCore
